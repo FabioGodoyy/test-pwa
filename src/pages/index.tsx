@@ -16,7 +16,7 @@ export default function Home() {
       </Head>
       <main className={`${styles.main} ${inter.className}`}>
         
-        <h1>PWA 2.0</h1>
+        <h1>PWA 2.1</h1>
       </main>
     </>
   )
